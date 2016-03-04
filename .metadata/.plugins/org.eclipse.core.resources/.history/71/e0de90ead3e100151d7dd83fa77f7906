@@ -1,0 +1,10 @@
+package VersionalControl;
+
+public class KelasLatihan {
+	
+	private void ma() {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World");
+	}
+
+}
